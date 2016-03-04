@@ -4,4 +4,4 @@
 
 ## Throughput
 
-<img src=https://graphs.waffle.io/bndn/board/throughput.svg width=100%>
+[![Throughput Graph](https://graphs.waffle.io/bndn/board/throughput.svg)](https://waffle.io/bndn/board/metrics)
